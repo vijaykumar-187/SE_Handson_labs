@@ -1,2 +1,11 @@
 __pycache__/
 *.pyc
+
+# Python virtual environments
+venv/
+
+# Test and coverage artifacts
+.coverage
+.pytest_cache/
+.hypothesis/
+htmlcov/
